@@ -1,0 +1,18 @@
+Documentaçao surface shader
+http://docs.unity3d.com/Manual/SL-SurfaceShaders.html
+Funçoes 
+http://http.developer.nvidia.com/Cg/index_stdlib.html
+Exemplos surface shaders
+http://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html
+
+Exemplos com iluminaçao customizada
+http://docs.unity3d.com/Manual/SL-SurfaceShaderLightingExamples.html
+Exemplo de tesseletion
+http://docs.unity3d.com/Manual/SL-SurfaceShaderTessellation.html
+
+Vertex e Fragment shader
+http://docs.unity3d.com/Manual/SL-ShaderPrograms.html
+Exemplos Vertex e Fragment
+http://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+ 
+

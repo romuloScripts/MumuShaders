@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed8d15b76ea3dae40b411586ea35eac3
+timeCreated: 1475605565
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Frost: {fileID: 2800000, guid: 854785b70feaec4499a28a90d4286bd1, type: 3}
+  - FrostNormals: {fileID: 2800000, guid: 2f6def84b0ab78d4b88d15a1cbabad02, type: 3}
+  - Shader: {fileID: 4800000, guid: aada20c3f7215c242ba357e52c41d79f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

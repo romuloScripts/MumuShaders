@@ -1,0 +1,33 @@
+﻿//#pragma kernel CSMain
+// 
+//RWTexture2D<float4> texCopy;
+//Texture2D<float4> tex;
+// 
+//[numthreads(8,8,1)]
+//void CSMain (uint2 id : SV_DispatchThreadID)
+//{
+//	//float4 t = tex.Load(uint3(id,0)); 0 nivel de mipmap
+//    float4 t = tex[id];
+//    texCopy[id] = t;
+//}
+
+#pragma kernel CSMain
+ 
+RWTexture2D<float4> texCopy;
+Texture2D<float4> tex;
+ 
+SamplerState _LinearClamp;
+SamplerState _LinearRepeat;
+SamplerState _PointClamp;
+SamplerState _PointRepeat;
+ 
+[numthreads(8,8,1)]
+void CSMain (uint2 id : SV_DispatchThreadID)
+{
+    float w, h;
+    texCopy.GetDimensions(w, h);
+    float2 uv = float2(id.x/w, id.y/h);
+ 
+    float4 t = tex.SampleLevel(_LinearClamp, uv, 0);
+    texCopy[id] = t;
+}

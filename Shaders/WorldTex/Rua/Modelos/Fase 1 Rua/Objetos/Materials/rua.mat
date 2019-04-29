@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rua
+  m_Shader: {fileID: 4800000, guid: 8e20dda1667c45f44911855121e5b260, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 2800000, guid: 426a98eea2779a143bef02aec9d7fa49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 2669c4b1a0413c643a60a80ab60f0faa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: f1c4674f2c488264ea9548fab9c49edb, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeBump:
+        m_Texture: {fileID: 2800000, guid: 39d3dcc278042be4c9fc30d1142a2b7c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b08fa292c104aca45af6e74c1ebe2a72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 215009b4898e94b4694d6d002cf09dbf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Poca:
+        m_Texture: {fileID: 2800000, guid: 6dfc5c825c41d5f4b83818585a35d473, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Noise: 1
+    - _Shininess: 0.95
+    m_Colors:
+    - _BaseScale: {r: 0.5, g: 0.5, b: 0.25, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _NoiseColor: {r: 1, g: 1, b: 1, a: 0.5803922}
+    - _PocaXYWH: {r: -60, g: -10, b: 320, a: 40}
+    - _ReflectColor: {r: 0.6415094, g: 0.6162122, b: 0.46902812, a: 0.3137255}
+    - _SpecColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    - _vel: {r: 0.1, g: 0.05, b: 0.1, a: 0.1}

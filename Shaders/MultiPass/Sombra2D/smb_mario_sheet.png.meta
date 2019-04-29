@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 6d6a47d71c0b2bd45b9b3d353f29ab6d
+timeCreated: 1471715493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smb_mario_sheet_0
+    21300002: smb_mario_sheet_1
+    21300004: smb_mario_sheet_2
+    21300006: smb_mario_sheet_3
+    21300008: smb_mario_sheet_4
+    21300010: smb_mario_sheet_5
+    21300012: smb_mario_sheet_6
+    21300014: smb_mario_sheet_7
+    21300016: smb_mario_sheet_8
+    21300018: smb_mario_sheet_9
+    21300020: smb_mario_sheet_10
+    21300022: smb_mario_sheet_11
+    21300024: smb_mario_sheet_12
+    21300026: smb_mario_sheet_13
+    21300028: smb_mario_sheet_14
+    21300030: smb_mario_sheet_15
+    21300032: smb_mario_sheet_16
+    21300034: smb_mario_sheet_17
+    21300036: smb_mario_sheet_18
+    21300038: smb_mario_sheet_19
+    21300040: smb_mario_sheet_20
+    21300042: smb_mario_sheet_21
+    21300044: smb_mario_sheet_22
+    21300046: smb_mario_sheet_23
+    21300048: smb_mario_sheet_24
+    21300050: smb_mario_sheet_25
+    21300052: smb_mario_sheet_26
+    21300054: smb_mario_sheet_27
+    21300056: smb_mario_sheet_28
+    21300058: smb_mario_sheet_29
+    21300060: smb_mario_sheet_30
+    21300062: smb_mario_sheet_31
+    21300064: smb_mario_sheet_32
+    21300066: smb_mario_sheet_33
+    21300068: smb_mario_sheet_34
+    21300070: smb_mario_sheet_35
+    21300072: smb_mario_sheet_36
+    21300074: smb_mario_sheet_37
+    21300076: smb_mario_sheet_38
+    21300078: smb_mario_sheet_39
+    21300080: smb_mario_sheet_40
+    21300082: smb_mario_sheet_41
+    21300084: smb_mario_sheet_42
+    21300086: smb_mario_sheet_43
+    21300088: smb_mario_sheet_44
+    21300090: smb_mario_sheet_45
+    21300092: smb_mario_sheet_46
+    21300094: smb_mario_sheet_47
+    21300096: smb_mario_sheet_48
+    21300098: smb_mario_sheet_49
+    21300100: smb_mario_sheet_50
+    21300102: smb_mario_sheet_51
+    21300104: smb_mario_sheet_52
+    21300106: smb_mario_sheet_53
+    21300108: smb_mario_sheet_54
+    21300110: smb_mario_sheet_55
+    21300112: smb_mario_sheet_56
+    21300114: smb_mario_sheet_57
+    21300116: smb_mario_sheet_58
+    21300118: smb_mario_sheet_59
+    21300120: smb_mario_sheet_60
+    21300122: smb_mario_sheet_61
+    21300124: smb_mario_sheet_62
+    21300126: smb_mario_sheet_63
+    21300128: smb_mario_sheet_64
+    21300130: smb_mario_sheet_65
+    21300132: smb_mario_sheet_66
+    21300134: smb_mario_sheet_67
+    21300136: smb_mario_sheet_68
+    21300138: smb_mario_sheet_69
+    21300140: smb_mario_sheet_70
+    21300142: smb_mario_sheet_71
+    21300144: smb_mario_sheet_72
+    21300146: smb_mario_sheet_73
+    21300148: smb_mario_sheet_74
+    21300150: smb_mario_sheet_75
+    21300152: smb_mario_sheet_76
+    21300154: smb_mario_sheet_77
+    21300156: smb_mario_sheet_78
+    21300158: smb_mario_sheet_79
+    21300160: smb_mario_sheet_80
+    21300162: smb_mario_sheet_81
+    21300164: smb_mario_sheet_82
+    21300166: smb_mario_sheet_83
+    21300168: smb_mario_sheet_84
+    21300170: smb_mario_sheet_85
+    21300172: smb_mario_sheet_86
+    21300174: smb_mario_sheet_87
+    21300176: smb_mario_sheet_88
+    21300178: smb_mario_sheet_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 0.1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smb_mario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156.66667
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 125.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94.666664
+        width: 27
+        height: 31.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 94.666664
+        width: 27
+        height: 31.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 94.666664
+        width: 27
+        height: 31.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 103
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 94.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 63.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 32.666664
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: smb_mario_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1.666666
+        width: 27
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
