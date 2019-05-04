@@ -1,2 +1,2 @@
 # MumuShaders
-My shaders scripts- Work in progress 
+A collection of shaders
